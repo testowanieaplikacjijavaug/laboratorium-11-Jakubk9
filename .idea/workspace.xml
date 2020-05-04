@@ -42,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.isElementPresentTest">
+  <component name="RunManager" selected="JUnit.WaitTest">
     <configuration name="SeleniumExtensionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="laboratorium-11-Jakubk9" />
       <option name="PACKAGE_NAME" value="" />
@@ -52,20 +52,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WebDriverManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WaitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="laboratorium-11-Jakubk9" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WebDriverManagerTest" />
+      <option name="MAIN_CLASS_NAME" value="WaitTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WebDriverManagerTest.getFirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="WaitTest.elementToBeSelectedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="laboratorium-11-Jakubk9" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WebDriverManagerTest" />
-      <option name="METHOD_NAME" value="getFirstTest" />
+      <option name="MAIN_CLASS_NAME" value="WaitTest" />
+      <option name="METHOD_NAME" value="elementToBeSelectedTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaitTest.presenceOfElementLocatedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="laboratorium-11-Jakubk9" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WaitTest" />
+      <option name="METHOD_NAME" value="presenceOfElementLocatedTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,10 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.WaitTest" />
+        <item itemvalue="JUnit.WaitTest.elementToBeSelectedTest" />
+        <item itemvalue="JUnit.WaitTest.presenceOfElementLocatedTest" />
         <item itemvalue="JUnit.isElementPresentTest" />
         <item itemvalue="JUnit.SeleniumExtensionTest" />
-        <item itemvalue="JUnit.WebDriverManagerTest.getFirstTest" />
-        <item itemvalue="JUnit.WebDriverManagerTest" />
       </list>
     </recent_temporary>
   </component>
