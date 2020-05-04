@@ -20,7 +20,7 @@ public class Zad5Test {
     public Zad5Test(ChromeDriver chromeDriver) {
         this.webDriver= chromeDriver;
     }
-    
+
     @Test
     public void test1() {
         webDriver.get("https://duckduckgo.com/");
