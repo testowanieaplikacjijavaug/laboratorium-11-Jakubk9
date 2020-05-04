@@ -42,11 +42,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.WaitTest">
-    <configuration name="SeleniumExtensionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TimeoutTest">
+    <configuration name="TimeoutTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="laboratorium-11-Jakubk9" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SeleniumExtensionTest" />
+      <option name="MAIN_CLASS_NAME" value="TimeoutTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TimeoutTest" />
         <item itemvalue="JUnit.WaitTest" />
         <item itemvalue="JUnit.WaitTest.elementToBeSelectedTest" />
         <item itemvalue="JUnit.WaitTest.presenceOfElementLocatedTest" />
         <item itemvalue="JUnit.isElementPresentTest" />
-        <item itemvalue="JUnit.SeleniumExtensionTest" />
       </list>
     </recent_temporary>
   </component>
