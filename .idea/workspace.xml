@@ -42,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SeleniumExtensionTest">
+  <component name="RunManager" selected="JUnit.isElementPresentTest">
     <configuration name="SeleniumExtensionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="laboratorium-11-Jakubk9" />
       <option name="PACKAGE_NAME" value="" />
@@ -71,8 +71,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="isElementPresentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="laboratorium-11-Jakubk9" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="isElementPresentTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.isElementPresentTest" />
         <item itemvalue="JUnit.SeleniumExtensionTest" />
         <item itemvalue="JUnit.WebDriverManagerTest.getFirstTest" />
         <item itemvalue="JUnit.WebDriverManagerTest" />
