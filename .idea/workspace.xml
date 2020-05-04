@@ -42,61 +42,62 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TimeoutTest">
-    <configuration name="TimeoutTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.JBrowserDriverTest.notExistingElementTest">
+    <configuration name="HtmlUnitDriverTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="laboratorium-11-Jakubk9" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TimeoutTest" />
+      <option name="MAIN_CLASS_NAME" value="HtmlUnitDriverTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WaitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HtmlUnitDriverTest.getFirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="laboratorium-11-Jakubk9" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WaitTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WaitTest.elementToBeSelectedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="laboratorium-11-Jakubk9" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WaitTest" />
-      <option name="METHOD_NAME" value="elementToBeSelectedTest" />
+      <option name="MAIN_CLASS_NAME" value="HtmlUnitDriverTest" />
+      <option name="METHOD_NAME" value="getFirstTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WaitTest.presenceOfElementLocatedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HtmlUnitDriverTest.notExistingElementTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="laboratorium-11-Jakubk9" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="WaitTest" />
-      <option name="METHOD_NAME" value="presenceOfElementLocatedTest" />
+      <option name="MAIN_CLASS_NAME" value="HtmlUnitDriverTest" />
+      <option name="METHOD_NAME" value="notExistingElementTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="isElementPresentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="JBrowserDriverTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="laboratorium-11-Jakubk9" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="isElementPresentTest" />
+      <option name="MAIN_CLASS_NAME" value="JBrowserDriverTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JBrowserDriverTest.notExistingElementTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="laboratorium-11-Jakubk9" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="JBrowserDriverTest" />
+      <option name="METHOD_NAME" value="notExistingElementTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TimeoutTest" />
-        <item itemvalue="JUnit.WaitTest" />
-        <item itemvalue="JUnit.WaitTest.elementToBeSelectedTest" />
-        <item itemvalue="JUnit.WaitTest.presenceOfElementLocatedTest" />
-        <item itemvalue="JUnit.isElementPresentTest" />
+        <item itemvalue="JUnit.JBrowserDriverTest.notExistingElementTest" />
+        <item itemvalue="JUnit.HtmlUnitDriverTest.notExistingElementTest" />
+        <item itemvalue="JUnit.HtmlUnitDriverTest.getFirstTest" />
+        <item itemvalue="JUnit.HtmlUnitDriverTest" />
+        <item itemvalue="JUnit.JBrowserDriverTest" />
       </list>
     </recent_temporary>
   </component>

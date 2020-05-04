@@ -47,10 +47,10 @@ public class WebDriverManagerTest {
     @Test
     public void clickTest() {
         webDriver.findElement(By.id("search_form_input_homepage"))
-                .sendKeys("Mateusz Miotk");
+                .sendKeys("Testowanie");
         webDriver.findElement(By.id("search_button_homepage"))
                 .click();
-        assertEquals("Mateusz Miotk at DuckDuckGo", webDriver.getTitle());
+        assertEquals("Testowanie at DuckDuckGo", webDriver.getTitle());
     }
 
     @Test

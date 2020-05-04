@@ -38,10 +38,10 @@ public class SeleniumExtensionTest {
     @Test
     public void clickTest() {
         chromeDriver.findElement(By.id("search_form_input_homepage"))
-                .sendKeys("Mateusz Miotk");
+                .sendKeys("Testowanie");
         chromeDriver.findElement(By.id("search_button_homepage"))
                 .click();
-        assertEquals("Mateusz Miotk at DuckDuckGo", chromeDriver.getTitle());
+        assertEquals("Testowanie at DuckDuckGo", chromeDriver.getTitle());
     }
 
     @Test
